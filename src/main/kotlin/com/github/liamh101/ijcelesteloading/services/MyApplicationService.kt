@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.liamh101.ijcelesteloading.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.liamh101.ijcelesteloading.MyBundle
 
 class MyApplicationService {
 
